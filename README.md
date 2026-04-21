@@ -10,9 +10,11 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 1. Import Required Libraries
 Import numpy, matplotlib.pyplot, and LinearRegression from sklearn.linear_model.
+
 2. Initialize Dataset
 Define the independent variable X (hours studied) and dependent variable Y (marks scored).
 Reshape X into a 2D array as required by sklearn.
+
 3. Define the Model
 Create an object of the Linear Regression model:
 
